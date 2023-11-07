@@ -7,11 +7,11 @@ Jak uruchomić aplikację:
 - npm start (uruchamiamy aplikacje)
 
 Użyte biblioteki:
-"axios": "^1.6.0",
-"bootstrap": "4.6.2",
-"formik": "^2.4.5",
-"react": "^18.2.0",
-"react-bootstrap": "^2.9.1",
-"react-dom": "^18.2.0",
-"react-scripts": "5.0.1",
-"yup": "^1.3.2"
+- "axios": "^1.6.0",
+- "bootstrap": "4.6.2",
+- "formik": "^2.4.5",
+- "react": "^18.2.0",
+- "react-bootstrap": "^2.9.1",
+- "react-dom": "^18.2.0",
+- "react-scripts": "5.0.1",
+- "yup": "^1.3.2"
