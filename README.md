@@ -1,5 +1,8 @@
 Jak uruchomić aplikację:
 
+Github-pages:
+https://sebastianmatyszewski.github.io/IT4U/
+
 1. Pobieramy kod żródłowy ze strony https://github.com/sebastianmatyszewski/IT4U
 2. Uruchamiamy projekt w programie Visual Studio Code
 3. Otwieramy terminal, a następnie wykonujemy poszczególne polecenia w konsoli
