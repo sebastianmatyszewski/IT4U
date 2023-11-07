@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/IT4U/static/css/main.2a59fa59.css",
+    "main.js": "/IT4U/static/js/main.b84d9cc1.js",
+    "static/media/background.webp": "/IT4U/static/media/background.8328da0be182450932dd.webp",
+    "index.html": "/IT4U/index.html",
+    "main.2a59fa59.css.map": "/IT4U/static/css/main.2a59fa59.css.map",
+    "main.b84d9cc1.js.map": "/IT4U/static/js/main.b84d9cc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a59fa59.css",
+    "static/js/main.b84d9cc1.js"
+  ]
+}
