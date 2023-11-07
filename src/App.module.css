@@ -1,0 +1,54 @@
+.backgroundImage {
+  background-image: 
+    url('./images/background.webp');
+  background-size: 100% 40%, 100% 60%; 
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  height: 100vh;
+  position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.formWrapper {
+  margin-top: 20px;
+}
+
+.contactText{
+  font-size: 2rem;
+  line-height: 1.2;
+  margin-top: 1rem;
+  text-align: center;
+  color: #fff;
+}
+
+.fontWeightBold {
+  font-weight: bold !important;
+}
+.formWrapper {
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  }
+
+  @media (max-width: 575px){
+    .contactText{
+      font-size: 1rem;
+      margin-top: 10rem;
+    }
+
+    .mainContent{
+      width: 100%;
+      padding: 2rem;
+    }
+  }
+  

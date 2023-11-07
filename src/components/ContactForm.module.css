@@ -1,0 +1,61 @@
+.agreeCommercialInfo{
+    color: #165a3d;
+    font-size: 11px;
+    line-height: 1.1;
+    margin-bottom: 1rem; 
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 470px;
+    padding: 30px 45px;
+    font-size: 14px;
+    background-color: #f1f1f1;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,.5)
+}
+
+.form input:not([type="checkbox"]) {
+    color: #165a3d;
+    font-size: 14px;
+    padding: 7px 10px;
+    display: block;
+    width: 100%;
+    background-color: #ddd;
+    border: none;
+    text-transform: uppercase;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.submitButton {
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #a6b33d;
+    color: #fff;
+    transition: all .25s ease-in-out;
+    display: block;
+    border: none;
+    margin: auto;
+    width: 10rem;
+    height: 2rem;
+    cursor: pointer;
+}
+
+.dataAdmin{
+    font-size: 11px;
+    color: black;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+@media (max-width: 575px){
+    .form{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+  }
